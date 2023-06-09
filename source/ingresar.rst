@@ -32,4 +32,18 @@ ______________________
 
 Después de completar el registro correctamente, recibirás una alerta en la parte inferior de la ventana que te informará sobre el envío de un enlace de verificación a la dirección de correo electrónico que proporcionaste.
 
+Debes ingresar al correo electrónico que utilizaste en el proceso de registro y presionar en el enlace que encontrarás en el mensaje. Esto permitirá a nuestra plataforma identificar al usuario y otorgar acceso a la plataforma.
+
+.. attention::
+   Si no verificas tu cuenta, no podrás acceder a nuestros servicios.
+
+Recuperar contraseña
+_____________________
+
+Cuando ingresamos a la plataforma, vamos a encontrar una opción llamada **"Recuperar contraseña"**. Presionamos clic sobre esta opción y nos redireccionará a una ventana en la cual debemos ingresar el correo electrónico con el que realizamos el registro.
+
+Login
+_____
+
+Para poder acceder a nuestra plataforma, por favor ingrese correctamente los datos solicitados en la ventana de inicio. Recuerde el nombre de usuario y la contraseña que utilizó durante el registro.
 
