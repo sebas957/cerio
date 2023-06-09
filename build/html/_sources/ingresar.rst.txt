@@ -27,8 +27,9 @@ Una vez ingresados los datos requeridos en el formulario, es importante aceptar 
 .. danger::
    "Ten en cuenta que es responsabilidad exclusiva del usuario leer detenidamente y comprender las condiciones de uso del sistema antes de continuar. Al aceptar y utilizar nuestros servicios, se asume que has leído y aceptado dichas condiciones. Te recomendamos revisar cuidadosamente el contenido de las condiciones de uso para asegurarte de cumplir con todos los requisitos establecidos."
 
-Después de completar el registro de manera adecuada, recibirás una alerta en la parte inferior de la ventana que te informará sobre el envío de un enlace de verificación a la dirección de correo electrónico proporcionada.
+Verificación de cuenta
+______________________
 
-Acceder al sistema
-__________________
+Después de completar el registro correctamente, recibirás una alerta en la parte inferior de la ventana que te informará sobre el envío de un enlace de verificación a la dirección de correo electrónico que proporcionaste.
+
 
