@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-¿Como ingresar?
+¿Cómo ingresar?
 =====================================
 
-Para acceder a nuestra plataforma puedes darle click aqui `Ingresar <http://muup.online>`_
+Para acceder a nuestra plataforma puedes darle clic aqui `Ingresar <http://muup.online>`_
 
 .. attention::
    Si el enlace está inactivo, te sugerimos intentar acceder manualmente ingresando la siguiente URL en tu navegador: www.muup.online
@@ -55,5 +55,6 @@ _____
 Para acceder a nuestra plataforma, es necesario proporcionar correctamente los datos solicitados en la ventana de inicio.
 
 Una vez que hayas ingresado exitosamente, serás redirigido a la ventana de creación de empresas.
+
 
 

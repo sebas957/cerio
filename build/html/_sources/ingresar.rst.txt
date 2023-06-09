@@ -57,3 +57,4 @@ Para acceder a nuestra plataforma, es necesario proporcionar correctamente los d
 Una vez que hayas ingresado exitosamente, serás redirigido a la ventana de creación de empresas.
 
 
+
