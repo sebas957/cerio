@@ -42,8 +42,16 @@ _____________________
 
 Cuando ingresamos a la plataforma, vamos a encontrar una opción llamada **"Recuperar contraseña"**. Presionamos clic sobre esta opción y nos redireccionará a una ventana en la cual debemos ingresar el correo electrónico con el que realizamos el registro.
 
+Al correo electrónico recibirá un enlace al que deberá acceder para cambiar la contraseña de manera segura.
+
+.. note::
+   "La seguridad de tus cuentas en línea es de suma importancia. Para garantizar la protección de tus datos personales y la privacidad de tu información, es fundamental recordar y seguir una regla básica: nunca compartas ni divulges tu contraseña con nadie.
+
+   Tu contraseña es la llave de acceso a tus cuentas y servicios en línea. Al compartirla con otros, pones en riesgo la seguridad de tu información confidencial, como datos financieros, correos electrónicos personales y otros datos sensibles. Incluso si confías en la persona a la que le compartes tu contraseña, existe el riesgo de que accidentalmente se vea comprometida o utilizada de manera indebida.
+
 Login
 _____
 
-Para poder acceder a nuestra plataforma, por favor ingrese correctamente los datos solicitados en la ventana de inicio. Recuerde el nombre de usuario y la contraseña que utilizó durante el registro.
+Para poder acceder a nuestra plataforma, por favor ingrese correctamente los datos solicitados en la ventana de inicio.
+
 
