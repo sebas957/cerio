@@ -6,7 +6,7 @@
 ¿Cómo ingresar?
 =====================================
 
-Para acceder a nuestra plataforma puedes darle clic aqui `Ingresar <http://muup.online>`_
+Para acceder a nuestra plataforma puedes darle clic aquí `Ingresar <http://muup.online>`_
 
 .. attention::
    Si el enlace está inactivo, te sugerimos intentar acceder manualmente ingresando la siguiente URL en tu navegador: www.muup.online
